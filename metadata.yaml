@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6478
     wikipedia: http://en.wikipedia.org/wiki/Rufus_Jones
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42164#Eli-and-Sibyl-JonesTheir-Life-and-Work
 gutenberg_issued: '2013-02-22'
 gutenberg_type: Text
 identifiers:
